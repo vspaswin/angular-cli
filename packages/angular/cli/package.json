@@ -34,7 +34,7 @@
     "inquirer": "6.2.0",
     "opn": "5.3.0",
     "rxjs": "6.3.3",
-    "semver": "5.5.1",
+    "semver": "5.7.2",
     "symbol-observable": "1.2.0"
   },
   "ng-update": {
